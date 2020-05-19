@@ -1,2 +1,1 @@
-# Object_Tracking_accelerator
-This repo contains code to check various algorithms available to track an object.
+This Accelerator is to quickly identify which tracking algorithm might work better than others in variety of use cases.
